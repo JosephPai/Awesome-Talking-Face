@@ -1,4 +1,4 @@
-# Awesome Talking Head Face (Head)
+# Awesome Talking Face [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 This is a repository for organizing papres, codes and other resources related to talking face/head. Most papers are linked to the pdf address provided by "arXiv" or "OpenAccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
@@ -20,14 +20,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [ ] Add paper link
 - [ ] Add codes if have
 - [ ] Add project page if have
-- [ ] 
 - [ ] Datasets introduction
 - [ ] Add table menu
 - [ ] Different category criteria
 
 
 
-## Content
+## Papers
 
 ### Subject-independent
 
@@ -77,6 +76,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Generating_Talking_Face_Landmarks_from_Speech [arXiv 2018]
 
 
+
+## Datasets
+
+Coming soon...
 
 
 
