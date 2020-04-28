@@ -30,6 +30,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Subject-independent
 
+- FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis. [AAAI 2020] [Paper](https://arxiv.org/abs/1911.09224)
+- Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose [AAAI 2020] [Paper](https://arxiv.org/abs/2003.12957)
+- Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose [arXiv 2020] [Paper](https://arxiv.org/abs/2002.10137)
+- Photorealistic Lip Sync with Adversarial Temporal Convolutional [arXiv 2020] [Paper](https://arxiv.org/abs/2002.08700)
+- SPEECH-DRIVEN FACIAL ANIMATION USING POLYNOMIAL FUSION OF FEATURES [arXiv 2020] [Paper](https://arxiv.org/abs/1912.05833)
+- Animating Face using Disentangled Audio Representations [WACV 2020] [Paper](https://arxiv.org/abs/1910.00726)
 - Realistic Speech-Driven Facial Animation with GANs. [IJCV 2019]  [Paper](http://arxiv.org/abs/1906.06337)  [PorjectPage](https://sites.google.com/view/facial-animation)
 - Few-Shot Adversarial Learning of Realistic Neural Talking Head Models [ICCV 2019]  [Paper](https://arxiv.org/abs/1905.08233)  [Code](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)
 - Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss [CVPR 2019]  [Paper](http://www.cs.rochester.edu/u/lchen63/cvpr2019.pdf)  [Code](https://github.com/lelechen63/ATVGnet)
