@@ -28,8 +28,14 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## Papers
 
-### Subject-independent
+### 2D Video - Subject independent
 
+- HeadGAN: Video-and-Audio-Driven Talking Head Synthesis [arXiv 2020] [Paper](https://arxiv.org/abs/2012.08261)
+- Talking-head Generation with Rhythmic Head Motion [ECCV 2020] [Paper](https://arxiv.org/abs/2007.08547)
+- Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis [CVPR 2020] [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Prajwal_Learning_Individual_Speaking_Styles_for_Accurate_Lip_to_Speech_Synthesis_CVPR_2020_paper.pdf)
+- Robust One Shot Audio to Video Generation [CVPRW 2020] [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w45/Kumar_Robust_One_Shot_Audio_to_Video_Generation_CVPRW_2020_paper.html)
+- A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild [ACMMM 2020] [Paper](https://arxiv.org/abs/2008.10010)
+- MakeItTalk: Speaker-Aware Talking Head Animation [SIGGRAPH Asia 2020] [Paper](https://arxiv.org/abs/2004.12992)
 - FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis. [AAAI 2020] [Paper](https://arxiv.org/abs/1911.09224)
 - Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose [AAAI 2020] [Paper](https://arxiv.org/abs/2003.12957)
 - Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose [arXiv 2020] [Paper](https://arxiv.org/abs/2002.10137)
@@ -45,11 +51,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Talking Face Generation by Conditional Recurrent Adversarial Network [IJCAI 2019]  [Paper](https://arxiv.org/abs/1804.04786)  [Code](https://github.com/susanqq/Talking_Face_Generation)
 - Speech-Driven Facial Reenactment Using Conditional Generative Adversarial Networks [arXiv 2018]  [Paper](https://arxiv.org/abs/1803.07461)
 - High-Resolution Talking Face Generation via Mutual Information Approximation [arXiv 2018]  [Paper](https://arxiv.org/abs/1812.06589)
+- Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network [arXiv 2018] [Paper](https://arxiv.org/pdf/1803.07716)
 - You said that? [BMVC 2017]  [Paper](https://arxiv.org/abs/1705.02966)
 
 
 
-### Subject-dependent
+### 2D Video - Subject dependent
 
 - Synthesizing Obama: Learning Lip Sync from Audio [SIGGRAPH 2017]  [Paper](http://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)  [Project Page](http://grail.cs.washington.edu/projects/AudioToObama/)
 - PHOTOREALISTIC ADAPTATION AND INTERPOLATION OF FACIAL EXPRESSIONS USING HMMS AND AAMS FOR AUDIO-VISUAL SPEECH SYNTHESIS [ICIP 2017]  [Paper](http://www.researchgate.net/publication/323352468_Photorealistic_adaptation_and_interpolation_of_facial_expressions_using_HMMS_and_AAMS_for_audio-visual_speech_synthesis)
@@ -64,9 +71,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### 3D Animation
 
+- Modality Dropout for Improved Performance-driven Talking Faces [ICMI 2020] [Paper](https://arxiv.org/abs/2005.13616)
+- Audio- and Gaze-driven Facial Animation of Codec Avatars [arXiv 2020] [Paper](https://arxiv.org/abs/2008.05023)
 - Capture, Learning, and Synthesis of 3D Speaking Styles [CVPR 2019]  [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Cudeiro_Capture_Learning_and_Synthesis_of_3D_Speaking_Styles_CVPR_2019_paper.html)
 - VisemeNet: Audio-Driven Animator-Centric Speech Animation [TOG 2018]  [Paper](http://arxiv.org/abs/1805.09488)
 - Speech-Driven Expressive Talking Lips with Conditional Sequential Generative Adversarial Networks [TAC 2018]  [Paper](https://arxiv.org/abs/1806.00154)
+- End-to-end Learning for 3D Facial Animation from Speech [ICMI 2018] [Paper](https://dl.acm.org/doi/pdf/10.1145/3242969.3243017)
 - Visual Speech Emotion Conversion using Deep Learning for 3D Talking Head [MMAC 2018]
 - A Deep Learning Approach for Generalized Speech Animation [SIGGRAPH 2017]  [Paper](https://dl.acm.org/citation.cfm?id=3073699)
 - Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion [TOG 2017]  [Paper](https://dl.acm.org/citation.cfm?id=3073658)
@@ -74,12 +84,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Expressive Speech Driven Talking Avatar Synthesis with DBLSTM using Limited Amount of Emotional Bimodal Data [Interspeech 2016]  [Paper](https://www.researchgate.net/publication/307889314_Expressive_Speech_Driven_Talking_Avatar_Synthesis_with_DBLSTM_Using_Limited_Amount_of_Emotional_Bimodal_Data)
 - Real-Time Speech-Driven Face Animation With Expressions Using Neural Networks [TONN 2012]  [Paper](https://www.ncbi.nlm.nih.gov/pubmed/18244487)
 - Facial Expression Synthesis Based on Emotion Dimensions for Affective Talking Avatar [SIST 2010]  [Paper](https://link.springer.com/10.1007/978-3-642-12604-8_6)
-
-
-
-### Other related works
-
-- Generating Talking Face Landmarks from Speech [arXiv 2018]  [Paper](https://arxiv.org/abs/1803.09803)
 
 
 
