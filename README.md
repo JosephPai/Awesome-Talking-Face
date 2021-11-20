@@ -6,11 +6,17 @@ This is a repository for organizing papres, codes and other resources related to
 
 #### :high_brightness: This project is still on-going, pull requests are welcomed!!
 
-If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request. Just letting me know the title of papers can also be a big contribution to us. You can do this by open issue or contact me directly via email.
+If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request. Just letting me know the title of papers can also be a big contribution to me. You can do this by open issue or contact me directly via email.
 
 
 
-#### :star: If you find this repo useful, please star it!!
+#### :star: If you find this repo useful, please star it!!!
+
+
+
+#### 2021.11 Update!
+
+I updated a batch of papers that appeared in the past few months. In this repo, I was intend to cover the **audio-driven** talking face generation works. However, I found several **text-based** research works are also very interesting. So I included them here. Enjoy it!
 
 
 
@@ -20,7 +26,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Add paper link
 - [x] Add codes if have
 - [x] Add project page if have
-- [ ] Datasets introduction
+- [x] Datasets and survey
 - [ ] Add table menu
 - [ ] Different category criteria
 
@@ -30,15 +36,24 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### 2D Video - Subject independent
 
+- AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [ICCV 2021] [Paper](https://arxiv.org/abs/2103.11078)  [Code](https://github.com/YudongGuo/AD-NeRF) 
+- Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation [CVPR 2021] [Paper](https://arxiv.org/abs/2104.11116)  [Code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)  [ProjectPage](https://hangz-nju-cuhk.github.io/projects/PC-AVS)
+- One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing [CVPR 2021] [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.pdf)
+- Audio-Driven Emotional Video Portraits [CVPR 2021] [Paper](https://jixinya.github.io/projects/evp/resources/evp.pdf)  [Code](https://github.com/jixinya/EVP/)
+- Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation [AAAI 2021] [Paper](https://arxiv.org/abs/2104.07995)
+- Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary [arXiv 2021] [Paper](https://arxiv.org/abs/2104.14631)  [Code](https://github.com/sibozhang/Text2Video)
+- Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose [arXiv 2020]  [Paper](http://arxiv.org/abs/2002.10137)  [Code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)
+- A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild [ACMMM 2020] [Paper](http://arxiv.org/abs/2008.10010)  [Code](https://github.com/Rudrabha/Wav2Lip)
+- Speech Driven Talking Face Generation from a Single Image and an Emotion Condition [arXiv 2020]  [Paper](https://arxiv.org/abs/2008.03592)  [Code](https://github.com/eeskimez/emotalkingface)
+- A Neural Lip-Sync Framework for Synthesizing Photorealistic Virtual News Anchors [ICPR 2020] [Paper](https://arxiv.org/abs/2002.08700)
+- Everybody's Talkin': Let Me Talk as You Want [arXiv 2020]  [Paper](https://arxiv.org/abs/2001.05201)
 - HeadGAN: Video-and-Audio-Driven Talking Head Synthesis [arXiv 2020] [Paper](https://arxiv.org/abs/2012.08261)
 - Talking-head Generation with Rhythmic Head Motion [ECCV 2020] [Paper](https://arxiv.org/abs/2007.08547)
 - Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis [CVPR 2020] [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Prajwal_Learning_Individual_Speaking_Styles_for_Accurate_Lip_to_Speech_Synthesis_CVPR_2020_paper.pdf)
 - Robust One Shot Audio to Video Generation [CVPRW 2020] [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w45/Kumar_Robust_One_Shot_Audio_to_Video_Generation_CVPRW_2020_paper.html)
-- A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild [ACMMM 2020] [Paper](https://arxiv.org/abs/2008.10010)
 - MakeItTalk: Speaker-Aware Talking Head Animation [SIGGRAPH Asia 2020] [Paper](https://arxiv.org/abs/2004.12992)
 - FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis. [AAAI 2020] [Paper](https://arxiv.org/abs/1911.09224)
 - Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose [AAAI 2020] [Paper](https://arxiv.org/abs/2003.12957)
-- Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose [arXiv 2020] [Paper](https://arxiv.org/abs/2002.10137)
 - Photorealistic Lip Sync with Adversarial Temporal Convolutional [arXiv 2020] [Paper](https://arxiv.org/abs/2002.08700)
 - SPEECH-DRIVEN FACIAL ANIMATION USING POLYNOMIAL FUSION OF FEATURES [arXiv 2020] [Paper](https://arxiv.org/abs/1912.05833)
 - Animating Face using Disentangled Audio Representations [WACV 2020] [Paper](https://arxiv.org/abs/1910.00726)
@@ -71,6 +86,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### 3D Animation
 
+- MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement [ICCV 2021] [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf)
+- 3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head [arXiv 2021] [Paper](https://arxiv.org/abs/2104.12051)
 - Modality Dropout for Improved Performance-driven Talking Faces [ICMI 2020] [Paper](https://arxiv.org/abs/2005.13616)
 - Audio- and Gaze-driven Facial Animation of Codec Avatars [arXiv 2020] [Paper](https://arxiv.org/abs/2008.05023)
 - Capture, Learning, and Synthesis of 3D Speaking Styles [CVPR 2019]  [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Cudeiro_Capture_Learning_and_Synthesis_of_3D_Speaking_Styles_CVPR_2019_paper.html)
@@ -89,15 +106,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## Datasets
 
-Coming soon...
+- MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation [ECCV 2020] [ProjectPage](https://wywu.github.io/projects/MEAD/MEAD.html)
 
 
 
+## Survey
 
-
-
-
-
-
-
+- What comprises a good talking-head video generation?: A Survey and Benchmark [arXiv 2020] [Paper](https://arxiv.org/abs/2005.03201)
 
