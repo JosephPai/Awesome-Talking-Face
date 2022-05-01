@@ -36,6 +36,9 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Subject independent
 
+- StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN [arXiv 2022] [Paper](https://arxiv.org/abs/2203.04036) [Code](https://github.com/FeiiYin/StyleHEAT) [ProjectPage](https://feiiyin.github.io/StyleHEAT/)
+- Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning [CVPR 2022] [Paper](https://arxiv.org/pdf/2203.02573.pdf) [Code](https://github.com/snap-research/MMVID) [ProjectPage](https://snap-research.github.io/MMVID/)
+- Depth-Aware Generative Adversarial Network for Talking Head Video Generation [CVPR 2022] [Paper](https://arxiv.org/abs/2203.06605) [Code](https://github.com/harlanhong/CVPR2022-DaGAN) [ProjectPage](https://harlanhong.github.io/publications/dagan.html)
 - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation  [SIGGRAPH Asia 2021] [Paper](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/SIGGRAPH_Asia_2021__Live_Speech_Portraits__Real_Time_Photorealistic_Talking_Head_Animation.pdf) [Code](https://github.com/YuanxunLu/LiveSpeechPortraits)
 - Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis [ACMMM 2021] [Paper](https://arxiv.org/abs/2111.00203) [Code](https://github.com/wuhaozhe/style_avatar)
 - AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [ICCV 2021] [Paper](https://arxiv.org/abs/2103.11078)  [Code](https://github.com/YudongGuo/AD-NeRF) 
@@ -90,6 +93,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 3D Animation
 
+- FaceFormer: Speech-Driven 3D Facial Animation with Transformers [CVPR 2022] [Paper](https://arxiv.org/pdf/2112.05329.pdf) [Code](https://github.com/EvelynFan/FaceFormer) [ProjectPage](https://evelynfan.github.io/audio2face/)
 - MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement [ICCV 2021] [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf)
 - 3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head [arXiv 2021] [Paper](https://arxiv.org/abs/2104.12051)
 - Modality Dropout for Improved Performance-driven Talking Faces [ICMI 2020] [Paper](https://arxiv.org/abs/2005.13616)
