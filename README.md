@@ -93,8 +93,10 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 3D Animation
 
+- Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos [CVPR 2022] [Paper](https://arxiv.org/pdf/2112.00585.pdf) [Code](https://github.com/foivospar/NED)
 - FaceFormer: Speech-Driven 3D Facial Animation with Transformers [CVPR 2022] [Paper](https://arxiv.org/pdf/2112.05329.pdf) [Code](https://github.com/EvelynFan/FaceFormer) [ProjectPage](https://evelynfan.github.io/audio2face/)
 - MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement [ICCV 2021] [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf)
+- AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis [ICCV 2021] [Paper](https://arxiv.org/abs/2103.11078) [Code](https://github.com/YudongGuo/AD-NeRF)
 - 3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head [arXiv 2021] [Paper](https://arxiv.org/abs/2104.12051)
 - Modality Dropout for Improved Performance-driven Talking Faces [ICMI 2020] [Paper](https://arxiv.org/abs/2005.13616)
 - Audio- and Gaze-driven Facial Animation of Codec Avatars [arXiv 2020] [Paper](https://arxiv.org/abs/2008.05023)
