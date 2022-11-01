@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 
+- Audio-Visual Face Reenactment [WACV 2023] [Paper](https://arxiv.org/abs/2210.02755) [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) [Code](https://github.com/mdv3101/AVFR-Gan/)
+- Compressing Video Calls using Synthetic Talking Heads [BMVC 2022] [Paper](https://arxiv.org/abs/2210.03692) [Project Page](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)
 - Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement [arXiv 2022] [Paper](https://arxiv.org/pdf/2209.01320.pdf)
 - StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation [arXiv 2022] [Paper](https://arxiv.org/pdf/2208.10922.pdf)
 - Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control [arXiv 2022] [Paper](https://arxiv.org/pdf/2208.02210.pdf)
