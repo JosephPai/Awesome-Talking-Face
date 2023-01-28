@@ -41,7 +41,15 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 
+- DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis [arXiv 2023] [Paper](https://arxiv.org/abs/2301.03786)
+- Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation [arXiv 2023] [Paper](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf) [ProjectPage](https://mstypulkowski.github.io/diffusedheads/)
+- StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles [AAAI 2023] [Paper](https://arxiv.org/abs/2301.01081) [Code](https://github.com/FuxiVirtualHuman/styletalk)
 - Audio-Visual Face Reenactment [WACV 2023] [Paper](https://arxiv.org/abs/2210.02755) [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) [Code](https://github.com/mdv3101/AVFR-Gan/)
+- Memories are One-to-Many Mapping Alleviators in Talking Face Generation [arXiv 2022] [Paper](https://arxiv.org/abs/2212.05005) [ProjectPage](https://memoryface.github.io/)
+- Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers [SIGGRAPH Asia 2022] [Paper](https://arxiv.org/abs/2212.04970)
+- Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors [arXiv 2022] [Paper](https://arxiv.org/abs/2212.04248) [ProjectPage](https://zxyin.github.io/TH-PAD/)
+- Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis [arXiv 2022] [Paper](https://arxiv.org/abs/2211.14506) [ProjectPage](https://dorniwang.github.io/PD-FGC/)
+- SPACE: Speech-driven Portrait Animation with Controllable Expression [arXiv 2022] [Paper](https://arxiv.org/abs/2211.09809) [ProjectPage](https://deepimagination.cc/SPACEx/)
 - Compressing Video Calls using Synthetic Talking Heads [BMVC 2022] [Paper](https://arxiv.org/abs/2210.03692) [Project Page](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)
 - Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement [arXiv 2022] [Paper](https://arxiv.org/pdf/2209.01320.pdf)
 - StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation [arXiv 2022] [Paper](https://arxiv.org/pdf/2208.10922.pdf)
@@ -124,6 +132,11 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 ### 3D Animation
 
+- Learning Audio-Driven Viseme Dynamics for 3D Face Animation [arXiv 2023] [Paper](https://arxiv.org/abs/2301.06059) [ProjectPage](https://linchaobao.github.io/viseme2023/)
+- CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior [arXiv 2023] [Paper](https://arxiv.org/abs/2301.02379) [ProjectPage](https://doubiiu.github.io/projects/codetalker/)
+- Expressive Speech-driven Facial Animation with controllable emotions [arXiv 2023] [Paper](https://arxiv.org/abs/2301.02008)
+- Imitator: Personalized Speech-driven 3D Facial Animation [arXiv 2022] [Paper](https://arxiv.org/abs/2301.00023) [ProjectPage](https://balamuruganthambiraja.github.io/Imitator/)
+- PV3D: A 3D Generative Model for Portrait Video Generation [arXiv 2022] [Paper](https://arxiv.org/abs/2212.06384) [ProjectPage](https://showlab.github.io/pv3d/)
 - Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos [CVPR 2022] [Paper](https://arxiv.org/pdf/2112.00585.pdf) [Code](https://github.com/foivospar/NED)
 - FaceFormer: Speech-Driven 3D Facial Animation with Transformers [CVPR 2022] [Paper](https://arxiv.org/pdf/2112.05329.pdf) [Code](https://github.com/EvelynFan/FaceFormer) [ProjectPage](https://evelynfan.github.io/audio2face/)
 - LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces
