@@ -41,10 +41,23 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 
+- A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation [MLSys Workshop 2023] [Paper](https://arxiv.org/abs/2304.00471v1)
+- TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles [arXiv 2023] [Paper](https://arxiv.org/abs/2304.00334v1)
+- Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert [CVPR 2023] [Paper](https://arxiv.org/abs/2303.17480) [Code](https://github.com/Sxjdwang/TalkLip)
+- FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions [ICME 2023] [Paper](https://arxiv.org/abs/2303.17789)
+- DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder [arXiv 2023] [Paper](https://arxiv.org/abs/2303.17550) [ProjectPage](https://daetalker.github.io/)
+- OPT: ONE-SHOT POSE-CONTROLLABLE TALKING HEAD GENERATION [ICASSP 2023] [Paper](https://arxiv.org/abs/2302.08197)
+- DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions [ICASSP 2023] [Paper](https://arxiv.org/abs/2303.07697) [Code](https://github.com/deepbrainai-research/discohead) [ProjectPage](https://deepbrainai-research.github.io/discohead/)
+- GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [ICLR 2023] [Paper](https://arxiv.org/abs/2301.13430) [Code](https://github.com/yerfor/GeneFace) [ProjectPage](https://geneface.github.io/)
+- OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering [Paper](https://arxiv.org/abs/2303.14662) [Code](https://github.com/theEricMa/OTAvatar)
+- Emotionally Enhanced Talking Face Generation [arXiv 2023] [Paper](https://arxiv.org/abs/2303.11548) [Code](https://github.com/sahilg06/EmoGen) [ProjectPage](https://midas.iiitd.edu.in/emo/)
+- Style Transfer for 2D Talking Head Animation [arXiv 2023] [Paper](https://arxiv.org/abs/2303.09799)
+- READ Avatars: Realistic Emotion-controllable Audio Driven Avatars [arXiv 2023] [Paper](https://arxiv.org/abs/2303.00744)
+- On the Audio-visual Synchronization for Lip-to-Speech Synthesis [arXiv 2023] [Paper](https://arxiv.org/abs/2303.00502)
 - DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis [arXiv 2023] [Paper](https://arxiv.org/abs/2301.03786)
 - Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation [arXiv 2023] [Paper](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf) [ProjectPage](https://mstypulkowski.github.io/diffusedheads/)
 - StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles [AAAI 2023] [Paper](https://arxiv.org/abs/2301.01081) [Code](https://github.com/FuxiVirtualHuman/styletalk)
-- Audio-Visual Face Reenactment [WACV 2023] [Paper](https://arxiv.org/abs/2210.02755) [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) [Code](https://github.com/mdv3101/AVFR-Gan/)
+- Audio-Visual Face Reenactment [WACV 2023] [Paper](https://arxiv.org/abs/2210.02755) [ProjectPage](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) [Code](https://github.com/mdv3101/AVFR-Gan/)
 - Memories are One-to-Many Mapping Alleviators in Talking Face Generation [arXiv 2022] [Paper](https://arxiv.org/abs/2212.05005) [ProjectPage](https://memoryface.github.io/)
 - Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers [SIGGRAPH Asia 2022] [Paper](https://arxiv.org/abs/2212.04970)
 - Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors [arXiv 2022] [Paper](https://arxiv.org/abs/2212.04248) [ProjectPage](https://zxyin.github.io/TH-PAD/)
@@ -132,6 +145,9 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 ### 3D Animation
 
+- EmoTalk: Speech-driven emotional disentanglement for 3D face animation [arXiv 2023] [Paper](https://arxiv.org/abs/2303.11089) [ProjectPage](https://ziqiaopeng.github.io/emotalk/)
+- FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning [arXiv 2023] [Paper](https://arxiv.org/abs/2303.05416) [Code](https://github.com/galib360/FaceXHuBERT) [ProjectPage](https://galib360.github.io/FaceXHuBERT/)
+- Pose-Controllable 3D Facial Animation Synthesis using Hierarchical Audio-Vertices Attention [arXiv 2023] [Paper](https://arxiv.org/abs/2302.12532)
 - Learning Audio-Driven Viseme Dynamics for 3D Face Animation [arXiv 2023] [Paper](https://arxiv.org/abs/2301.06059) [ProjectPage](https://linchaobao.github.io/viseme2023/)
 - CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior [arXiv 2023] [Paper](https://arxiv.org/abs/2301.02379) [ProjectPage](https://doubiiu.github.io/projects/codetalker/)
 - Expressive Speech-driven Facial Animation with controllable emotions [arXiv 2023] [Paper](https://arxiv.org/abs/2301.02008)
@@ -169,6 +185,7 @@ from Video using Pose and Lighting Normalization [CVPR 2021] [Paper](https://ope
 - LRS2 [Link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)
 - GRID [Link](https://spandh.dcs.shef.ac.uk//avlombard/)
 - CREMA-D [Link](https://github.com/CheyneyComputerScience/CREMA-D)
+- MMFace4D [Link](https://arxiv.org/abs/2303.09797)
 
 
 
