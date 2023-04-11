@@ -110,7 +110,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 - Neural Voice Puppetry:  Audio-driven Facial Reenactment [ECCV 2020] [Paper](https://arxiv.org/pdf/1912.05566.pdf) [Project](https://justusthies.github.io/posts/neural-voice-puppetry/) [Code](https://github.com/JustusThies/NeuralVoicePuppetry)
 - Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis [CVPR 2020] [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Prajwal_Learning_Individual_Speaking_Styles_for_Accurate_Lip_to_Speech_Synthesis_CVPR_2020_paper.pdf)
 - Robust One Shot Audio to Video Generation [CVPRW 2020] [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w45/Kumar_Robust_One_Shot_Audio_to_Video_Generation_CVPRW_2020_paper.html)
-- MakeItTalk: Speaker-Aware Talking Head Animation [SIGGRAPH Asia 2020] [Paper](https://arxiv.org/abs/2004.12992)
+- MakeItTalk: Speaker-Aware Talking Head Animation [SIGGRAPH Asia 2020] [Paper](https://arxiv.org/abs/2004.12992)  [Code](https://github.com/adobe-research/MakeItTalk)
 - FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis. [AAAI 2020] [Paper](https://arxiv.org/abs/1911.09224)
 - Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose [AAAI 2020] [Paper](https://arxiv.org/abs/2003.12957)
 - Photorealistic Lip Sync with Adversarial Temporal Convolutional [arXiv 2020] [Paper](https://arxiv.org/abs/2002.08700)
