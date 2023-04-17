@@ -40,7 +40,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 ## Papers
 
 ### 2D Video - Person independent
-
+- Emotionally Enhanced Talking Face Generation [arXiv 2023] [Paper](https://arxiv.org/abs/2303.11548) [Code](https://github.com/sahilg06/EmoGen) [ProjectPage](https://midas.iiitd.edu.in/emo/)
 - A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation [MLSys Workshop 2023] [Paper](https://arxiv.org/abs/2304.00471v1)
 - TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles [arXiv 2023] [Paper](https://arxiv.org/abs/2304.00334v1)
 - Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert [CVPR 2023] [Paper](https://arxiv.org/abs/2303.17480) [Code](https://github.com/Sxjdwang/TalkLip)
