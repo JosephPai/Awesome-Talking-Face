@@ -42,7 +42,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 ### 2D Video - Person independent
 #### 2023
 - Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks [arXiv 2023] [Paper](https://arxiv.org/abs/2306.03594)
-- Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis [arXiv 2023] [Paper](Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis)
+- Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis [arXiv 2023] [Paper](https://arxiv.org/abs/2306.03504)
 - Parametric Implicit Face Representation for Audio-Driven Facial Reenactment [CVPR 2023] [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Parametric_Implicit_Face_Representation_for_Audio-Driven_Facial_Reenactment_CVPR_2023_paper.pdf)
 - Identity-Preserving Talking Face Generation with Landmark and Appearance Priors [CVPR 2023] [Paper](https://arxiv.org/abs/2305.08293) [Code](https://github.com/Weizhi-Zhong/IP_LAP)
 - StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator [CVPR 2023] [Paper](https://arxiv.org/pdf/2305.05445.pdf) [ProjectPage](https://hangz-nju-cuhk.github.io/projects/StyleSync) [Code](https://github.com/guanjz20/StyleSync)
