@@ -42,6 +42,14 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 ### 2D Video - Person independent
 #### 2023
 
+- DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models [arXiv 2023] [Paper](https://arxiv.org/abs/2312.09767) [ProjectPage](https://dreamtalk-project.github.io/)
+- GMTalker: Gaussian Mixture based Emotional talking video Portraits [arXiv 2023] [Paper](https://arxiv.org/abs/2312.07669) [ProjectPage](https://bob35buaa.github.io/GMTalker)
+- DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers [arXiv 2023] [Paper](https://arxiv.org/abs/2312.06400)
+- R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning [arXiv 2023] [Paper](https://arxiv.org/abs/2312.05572)
+- FT2TF: First-Person Statement Text-To-Talking Face Generation [arXiv 2023] [Paper](https://arxiv.org/abs/2312.05430)
+- VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior [arXiv 2023] [Paper](https://arxiv.org/abs/2312.01841) [Code](https://github.com/HumanAIGC/VividTalk) [ProjectPage](https://humanaigc.github.io/vivid-talk/)
+- SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis [arXiv 2023] [Paper](https://arxiv.org/abs/2311.17590) [Code](https://github.com/ziqiaopeng/SyncTalk) [ProjectPage](https://ziqiaopeng.github.io/synctalk/)
+- GAIA: Zero-shot Talking Avatar Generation [arXiv 2023] [Paper](https://arxiv.org/abs/2311.15230)
 - Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis [ICCV 2023] [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.html) [ProjectPage](https://fictionarry.github.io/ER-NeRF/) [Code](https://github.com/Fictionarry/ER-NeRF)
 - Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation [ICCV 2023] [Paper](https://arxiv.org/abs/2307.09906) [ProjectPage](https://harlanhong.github.io/publications/mcnet.html) [Code](https://github.com/harlanhong/ICCV2023-MCNET)
 - MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions [ICCV 2023] [Paper](https://arxiv.org/abs/2307.10008) [ProjectPage](https://liuyunfei.net/projects/iccv23-moda/)
@@ -186,6 +194,10 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 ### 3D Animation
 
+- PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features [arXiv] [Paper](https://arxiv.org/abs/2312.02781)
+- 3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing [arXiv 2023] [Paper](https://arxiv.org/abs/2312.00870) [Code](https://github.com/bala1144/3DiFACE) [ProjectPage](https://balamuruganthambiraja.github.io/3DiFACE/)
+- Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications [arXiv 2023] [Paper](https://arxiv.org/abs/2311.18168)
+- DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser [arXiv 2023] [Paper](https://arxiv.org/abs/2311.16565)
 - Imitator: Personalized Speech-driven 3D Facial Animation [ICCV 2023] [Paper](https://arxiv.org/abs/2301.00023) [ProjectPage](https://balamuruganthambiraja.github.io/Imitator/) [Code](https://github.com/bala1144/Imitator)
 - Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation [ICCV 2023] [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper.pdf)
 - Semi-supervised Speech-driven 3D Facial Animation via Cross-modal Encoding [ICCV 2023] [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Semi-supervised_Speech-driven_3D_Facial_Animation_via_Cross-modal_Encoding_ICCV_2023_paper.pdf)
