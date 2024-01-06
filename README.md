@@ -42,6 +42,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 ### 2D Video - Person independent
 #### 2023
 
+- VectorTalker: SVG Talking Face Generation with Progressive Vectorisation [arXiv 2023] [Paper](https://arxiv.org/abs/2312.11568)
 - DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models [arXiv 2023] [Paper](https://arxiv.org/abs/2312.09767) [ProjectPage](https://dreamtalk-project.github.io/)
 - GMTalker: Gaussian Mixture based Emotional talking video Portraits [arXiv 2023] [Paper](https://arxiv.org/abs/2312.07669) [ProjectPage](https://bob35buaa.github.io/GMTalker)
 - DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers [arXiv 2023] [Paper](https://arxiv.org/abs/2312.06400)
@@ -194,6 +195,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 ### 3D Animation
 
+- EMOTE: Emotional Speech-Driven Animation with Content-Emotion Disentanglement [SIGGRAPH Asia 2023] [Paper](https://arxiv.org/abs/2306.08990) [ProjectPage](https://emote.is.tue.mpg.de/)
 - PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features [arXiv] [Paper](https://arxiv.org/abs/2312.02781)
 - 3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing [arXiv 2023] [Paper](https://arxiv.org/abs/2312.00870) [Code](https://github.com/bala1144/3DiFACE) [ProjectPage](https://balamuruganthambiraja.github.io/3DiFACE/)
 - Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications [arXiv 2023] [Paper](https://arxiv.org/abs/2311.18168)
@@ -254,4 +256,6 @@ from Video using Pose and Lighting Normalization [CVPR 2021] [Paper](https://ope
 - Deep Learning for Visual Speech Analysis: A Survey [arXiv 2022] [Paper](https://arxiv.org/abs/2205.10839)
 - What comprises a good talking-head video generation?: A Survey and Benchmark [arXiv 2020] [Paper](https://arxiv.org/abs/2005.03201)
 
+## Colabs
+- Avatars4All: https://github.com/eyaler/avatars4all
 
