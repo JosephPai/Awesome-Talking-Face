@@ -40,6 +40,11 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 ## Papers
 
 ### 2D Video - Person independent
+#### 2024
+- Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis [ICLR 2024] [Paper](https://arxiv.org/abs/2401.08503)
+- EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model [ICASSP 2024] [Paper](https://arxiv.org/abs/2401.08049)
+
+
 #### 2023
 
 - VectorTalker: SVG Talking Face Generation with Progressive Vectorisation [arXiv 2023] [Paper](https://arxiv.org/abs/2312.11568)
