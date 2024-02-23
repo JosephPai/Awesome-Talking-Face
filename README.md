@@ -41,8 +41,10 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- GPAvatar: Generalizable and Precise Head Avatar from Image(s) [ICLR 2024] [Paper](https://arxiv.org/abs/2401.10215) [Code](https://github.com/xg-chu/GPAvatar)
 - Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis [ICLR 2024] [Paper](https://arxiv.org/abs/2401.08503)
 - EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model [ICASSP 2024] [Paper](https://arxiv.org/abs/2401.08049)
+- CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer [WACV 2024] [Paper](https://arxiv.org/abs/2311.06443) [Code](https://github.com/HowieMa/CVTHead)
 
 
 #### 2023
@@ -200,6 +202,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 ### 3D Animation
 
+- Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance [arXiv 2024] [Paper](https://arxiv.org/abs/2401.15687) [ProjectPage](https://sites.google.com/view/media2face)
 - EMOTE: Emotional Speech-Driven Animation with Content-Emotion Disentanglement [SIGGRAPH Asia 2023] [Paper](https://arxiv.org/abs/2306.08990) [ProjectPage](https://emote.is.tue.mpg.de/)
 - PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features [arXiv] [Paper](https://arxiv.org/abs/2312.02781)
 - 3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing [arXiv 2023] [Paper](https://arxiv.org/abs/2312.00870) [Code](https://github.com/bala1144/3DiFACE) [ProjectPage](https://balamuruganthambiraja.github.io/3DiFACE/)
