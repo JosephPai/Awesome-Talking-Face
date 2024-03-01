@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions [arXiv 2024] [Paper](https://arxiv.org/abs/2402.17485) [ProjectPage](https://humanaigc.github.io/emote-portrait-alive/) [Code](https://github.com/HumanAIGC/EMO)
 - GPAvatar: Generalizable and Precise Head Avatar from Image(s) [ICLR 2024] [Paper](https://arxiv.org/abs/2401.10215) [Code](https://github.com/xg-chu/GPAvatar)
 - Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis [ICLR 2024] [Paper](https://arxiv.org/abs/2401.08503)
 - EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model [ICASSP 2024] [Paper](https://arxiv.org/abs/2401.08049)
