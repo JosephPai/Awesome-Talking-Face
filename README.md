@@ -194,6 +194,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 ### 2D Video - Person dependent
 
+- Continuously Controllable Facial Expression Editing in Talking Face Videos [TAFFC 2023] [Paper](https://doi.org/10.1109/TAFFC.2023.3334511) [Project Page](https://raineggplant.github.io/FEE4TV)
 - Synthesizing Obama: Learning Lip Sync from Audio [SIGGRAPH 2017]  [Paper](http://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)  [Project Page](http://grail.cs.washington.edu/projects/AudioToObama/)
 - PHOTOREALISTIC ADAPTATION AND INTERPOLATION OF FACIAL EXPRESSIONS USING HMMS AND AAMS FOR AUDIO-VISUAL SPEECH SYNTHESIS [ICIP 2017]  [Paper](http://www.researchgate.net/publication/323352468_Photorealistic_adaptation_and_interpolation_of_facial_expressions_using_HMMS_and_AAMS_for_audio-visual_speech_synthesis)
 - HMM-Based Photo-Realistic Talking Face Synthesis Using Facial Expression Parameter Mapping with Deep Neural Networks [Journal of Computer and Communications2017]  [Paper](https://www.scirp.org/pdf/JCC_2017082216385517.pdf)
@@ -214,6 +215,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 - 3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing [arXiv 2023] [Paper](https://arxiv.org/abs/2312.00870) [Code](https://github.com/bala1144/3DiFACE) [ProjectPage](https://balamuruganthambiraja.github.io/3DiFACE/)
 - Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications [arXiv 2023] [Paper](https://arxiv.org/abs/2311.18168)
 - DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser [arXiv 2023] [Paper](https://arxiv.org/abs/2311.16565)
+- DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models [arXiv 2023] [Paper](https://arxiv.org/abs/2310.00434) [ProjectPage](https://diffposetalk.github.io) [Code](https://github.com/DiffPoseTalk/DiffPoseTalk)
 - Imitator: Personalized Speech-driven 3D Facial Animation [ICCV 2023] [Paper](https://arxiv.org/abs/2301.00023) [ProjectPage](https://balamuruganthambiraja.github.io/Imitator/) [Code](https://github.com/bala1144/Imitator)
 - Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation [ICCV 2023] [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper.pdf)
 - Semi-supervised Speech-driven 3D Facial Animation via Cross-modal Encoding [ICCV 2023] [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Semi-supervised_Speech-driven_3D_Facial_Animation_via_Cross-modal_Encoding_ICCV_2023_paper.pdf)
