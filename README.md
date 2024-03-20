@@ -41,6 +41,9 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style [arXiv 2024] [Paper](https://arxiv.org/abs/2403.06365)
+- FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization [arXiv 2024] [Paper](https://arxiv.org/abs/2403.06375)
+- FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio [arXiv 2024] [Paper](https://arxiv.org/abs/2403.01901) [Code](https://github.com/modelscope/facechain)
 - Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis [CVPR 2024] [Paper](https://arxiv.org/abs/2402.17364) [Code](https://github.com/zhangzc21/DynTet)
 - EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions [arXiv 2024] [Paper](https://arxiv.org/abs/2402.17485) [ProjectPage](https://humanaigc.github.io/emote-portrait-alive/) [Code](https://github.com/HumanAIGC/EMO)
 - G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment [arXiv 2024] [Paper](https://arxiv.org/abs/2402.18122)
@@ -207,6 +210,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- EmoVOCA: Speech-Driven Emotional 3D Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2403.12886)
 - FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [CVPR 2024] [Paper](https://arxiv.org/abs/2312.08459) [Code](https://github.com/shivangi-aneja/FaceTalk) [ProjectPage](https://shivangi-aneja.github.io/projects/facetalk/)
 - AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2402.16124)
 - Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance [arXiv 2024] [Paper](https://arxiv.org/abs/2401.15687) [ProjectPage](https://sites.google.com/view/media2face)
