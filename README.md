@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2403.15931)
+- Adaptive Super Resolution For One-Shot Talking-Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2403.15944)
 - Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style [arXiv 2024] [Paper](https://arxiv.org/abs/2403.06365)
 - FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization [arXiv 2024] [Paper](https://arxiv.org/abs/2403.06375)
 - FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio [arXiv 2024] [Paper](https://arxiv.org/abs/2403.01901) [Code](https://github.com/modelscope/facechain)
