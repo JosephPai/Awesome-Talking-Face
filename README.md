@@ -41,6 +41,9 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17694) [Code](https://github.com/Zejun-Yang/AniPortrait)
+- MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation [arXiv 2024] [Paper](https://ku-cvlab.github.io/MoDiTalker/) [ProjectPage](https://ku-cvlab.github.io/MoDiTalker/)
+- Superior and Pragmatic Talking Face Generation with Teacher-Student Framework [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17883) [ProjectPage](https://superfacelink.github.io/)
 - X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2403.15931)
 - Adaptive Super Resolution For One-Shot Talking-Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2403.15944)
 - Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style [arXiv 2024] [Paper](https://arxiv.org/abs/2403.06365)
@@ -212,6 +215,8 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for Communication [arXiv 2024] [Paper](https://arxiv.org/abs/2403.19467)
+- AnimateMe: 4D Facial Expressions via Diffusion Models [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17213)
 - EmoVOCA: Speech-Driven Emotional 3D Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2403.12886)
 - FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [CVPR 2024] [Paper](https://arxiv.org/abs/2312.08459) [Code](https://github.com/shivangi-aneja/FaceTalk) [ProjectPage](https://shivangi-aneja.github.io/projects/facetalk/)
 - AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2402.16124)
