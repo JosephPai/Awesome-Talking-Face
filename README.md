@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior [arXiv 2024] [Paper](https://arxiv.org/abs/2403.20153) [Code](https://github.com/KU-CVLAB/Talk3D) [ProjectPage](https://ku-cvlab.github.io/Talk3D/)
+- EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2404.01647) [Code](https://github.com/tanshuai0219/EDTalk) [ProjectPage](https://tanshuai0219.github.io/EDTalk/)
 - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17694) [Code](https://github.com/Zejun-Yang/AniPortrait)
 - MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation [arXiv 2024] [Paper](https://ku-cvlab.github.io/MoDiTalker/) [ProjectPage](https://ku-cvlab.github.io/MoDiTalker/)
 - Superior and Pragmatic Talking Face Generation with Teacher-Student Framework [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17883) [ProjectPage](https://superfacelink.github.io/)
