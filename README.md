@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time [arXiv 2024] [Paper](https://arxiv.org/abs/2404.10667) [ProjectPage](https://www.microsoft.com/en-us/research/project/vasa-1/)
 - Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior [arXiv 2024] [Paper](https://arxiv.org/abs/2403.20153) [Code](https://github.com/KU-CVLAB/Talk3D) [ProjectPage](https://ku-cvlab.github.io/Talk3D/)
 - EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2404.01647) [Code](https://github.com/tanshuai0219/EDTalk) [ProjectPage](https://tanshuai0219.github.io/EDTalk/)
 - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17694) [Code](https://github.com/Zejun-Yang/AniPortrait)
