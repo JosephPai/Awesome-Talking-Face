@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting [Code](https://github.com/TMElyralab/MuseTalk) [Tech report on the way]
 - VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time [arXiv 2024] [Paper](https://arxiv.org/abs/2404.10667) [ProjectPage](https://www.microsoft.com/en-us/research/project/vasa-1/)
 - THQA: A Perceptual Quality Assessment Database for Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2404.09003) [Code](https://github.com/zyj-2000/THQA)
 - Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior [arXiv 2024] [Paper](https://arxiv.org/abs/2403.20153) [Code](https://github.com/KU-CVLAB/Talk3D) [ProjectPage](https://ku-cvlab.github.io/Talk3D/)
@@ -219,6 +220,8 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting [arXiv 2024] [Paper](https://arxiv.org/abs/2404.14037)
+- Learn2Talk: 3D Talking Face Learns from 2D Talking Face [arXiv 2024] [Paper](https://arxiv.org/abs/2404.12888) [ProjectPage](https://lkjkjoiuiu.github.io/Learn2Talk/)
 - Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for Communication [arXiv 2024] [Paper](https://arxiv.org/abs/2403.19467)
 - AnimateMe: 4D Facial Expressions via Diffusion Models [arXiv 2024] [Paper](https://arxiv.org/abs/2403.17213)
 - EmoVOCA: Speech-Driven Emotional 3D Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2403.12886)
