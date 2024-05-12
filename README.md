@@ -41,6 +41,12 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space [arXiv 2024] [Paper](https://arxiv.org/abs/2405.05636) [ProjectPage](http://swaptalk.cc/)
+- AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding [arXiv 2024] [Paper](https://arxiv.org/abs/2405.03121) [Code](https://github.com/X-LANCE/AniTalker) [ProjectPage](https://x-lance.github.io/AniTalker/)
+- NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior [CVPR 2024 Workshop] [Paper](https://arxiv.org/abs/2405.05749) [Code](https://github.com/rlgnswk/NeRFFaceSpeech_Code/) [ProjectPage](https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/)
+- Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation [CVPR 2024 Workshop] [Paper](https://arxiv.org/abs/2405.04327)
+- EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars [arXiv 2024] [Paper](https://arxiv.org/abs/2404.19110)[ProjectPage](https://neeek2303.github.io/EMOPortraits)
+- GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting [arXiv 2024] [Paper](https://arxiv.org/abs/2404.19040)
 - MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting [Code](https://github.com/TMElyralab/MuseTalk) [Tech report on the way]
 - VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time [arXiv 2024] [Paper](https://arxiv.org/abs/2404.10667) [ProjectPage](https://www.microsoft.com/en-us/research/project/vasa-1/)
 - THQA: A Perceptual Quality Assessment Database for Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2404.09003) [Code](https://github.com/zyj-2000/THQA)
@@ -220,6 +226,8 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- 3D Gaussian Blendshapes for Head Avatar Animation [SIGGRAPH 2024] [Paper](https://arxiv.org/abs/2404.19398)
+- CSTalk: Correlation Supervised Speech-driven 3D Emotional Facial Animation Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2404.18604)
 - GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting [arXiv 2024] [Paper](https://arxiv.org/abs/2404.14037)
 - Learn2Talk: 3D Talking Face Learns from 2D Talking Face [arXiv 2024] [Paper](https://arxiv.org/abs/2404.12888) [ProjectPage](https://lkjkjoiuiu.github.io/Learn2Talk/)
 - Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for Communication [arXiv 2024] [Paper](https://arxiv.org/abs/2403.19467)
