@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Faces that Speak: Jointly Synthesising Talking Face and Speech from Text [arXiv 2024] [Paper](https://arxiv.org/abs/2405.10272) [ProjectPage](https://mm.kaist.ac.kr/projects/faces-that-speak/)
+- Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2405.07257)
 - SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space [arXiv 2024] [Paper](https://arxiv.org/abs/2405.05636) [ProjectPage](http://swaptalk.cc/)
 - AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding [arXiv 2024] [Paper](https://arxiv.org/abs/2405.03121) [Code](https://github.com/X-LANCE/AniTalker) [ProjectPage](https://x-lance.github.io/AniTalker/)
 - NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior [CVPR 2024 Workshop] [Paper](https://arxiv.org/abs/2405.05749) [Code](https://github.com/rlgnswk/NeRFFaceSpeech_Code/) [ProjectPage](https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/)
