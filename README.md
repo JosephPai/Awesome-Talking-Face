@@ -238,6 +238,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 - EmoVOCA: Speech-Driven Emotional 3D Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2403.12886)
 - FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [CVPR 2024] [Paper](https://arxiv.org/abs/2312.08459) [Code](https://github.com/shivangi-aneja/FaceTalk) [ProjectPage](https://shivangi-aneja.github.io/projects/facetalk/)
 - AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2402.16124)
+- DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer [arXiv 2024] [Paper](https://arxiv.org/pdf/2402.05712.pdf) [Code](https://github.com/theEricMa/DiffSpeaker) 
 - Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance [arXiv 2024] [Paper](https://arxiv.org/abs/2401.15687) [ProjectPage](https://sites.google.com/view/media2face)
 - EMOTE: Emotional Speech-Driven Animation with Content-Emotion Disentanglement [SIGGRAPH Asia 2023] [Paper](https://arxiv.org/abs/2306.08990) [ProjectPage](https://emote.is.tue.mpg.de/)
 - PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features [arXiv] [Paper](https://arxiv.org/abs/2312.02781)
