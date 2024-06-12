@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Controllable Talking Face Generation by Implicit Facial Keypoints Editing [arXiv 2024] [Paper](https://arxiv.org/abs/2406.02880)
 - InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2405.15758) [ProjectPage](https://wangyuchi369.github.io/InstructAvatar/)
 - Faces that Speak: Jointly Synthesising Talking Face and Speech from Text [arXiv 2024] [Paper](https://arxiv.org/abs/2405.10272) [ProjectPage](https://mm.kaist.ac.kr/projects/faces-that-speak/)
 - Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2405.07257)
