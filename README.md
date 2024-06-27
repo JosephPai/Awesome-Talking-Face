@@ -41,6 +41,11 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2406.08801) [ProjectPage](https://fudan-generative-vision.github.io/hallo/#/) [GitHub](https://github.com/fudan-generative-vision/hallo)
+- RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network [arXiv 2024] [Paper](https://arxiv.org/abs/2406.18284)
+- Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2406.07895)
+- Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation [arXiv 2024] [Paper](https://arxiv.org/abs/2406.07867) [ProjectPage](https://multidialog.github.io/)
+- Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement [arXiv 2024] [Paper](https://arxiv.org/abs/2406.08096) [ProjectPage](https://ingrid789.github.io/MyTalk/)
 - Controllable Talking Face Generation by Implicit Facial Keypoints Editing [arXiv 2024] [Paper](https://arxiv.org/abs/2406.02880)
 - InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2405.15758) [ProjectPage](https://wangyuchi369.github.io/InstructAvatar/)
 - Faces that Speak: Jointly Synthesising Talking Face and Speech from Text [arXiv 2024] [Paper](https://arxiv.org/abs/2405.10272) [ProjectPage](https://mm.kaist.ac.kr/projects/faces-that-speak/)
@@ -230,6 +235,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset [InterSpeed 2024] [Paper](https://arxiv.org/abs/2406.14272) [ProjectPage](https://multi-talk.github.io/)
 - 3D Gaussian Blendshapes for Head Avatar Animation [SIGGRAPH 2024] [Paper](https://arxiv.org/abs/2404.19398)
 - CSTalk: Correlation Supervised Speech-driven 3D Emotional Facial Animation Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2404.18604)
 - GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting [arXiv 2024] [Paper](https://arxiv.org/abs/2404.14037)
@@ -299,6 +305,7 @@ from Video using Pose and Lighting Normalization [CVPR 2021] [Paper](https://ope
 
 ## Survey
 
+- A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing [arXiv 2024] [Paper](https://arxiv.org/abs/2406.10553v2)
 - From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications [arXiv 2023] [Paper](https://arxiv.org/abs/2308.16041)
 - Deep Learning for Visual Speech Analysis: A Survey [arXiv 2022] [Paper](https://arxiv.org/abs/2205.10839)
 - What comprises a good talking-head video generation?: A Survey and Benchmark [arXiv 2020] [Paper](https://arxiv.org/abs/2005.03201)
