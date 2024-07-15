@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions [arXiv 2024] [Paper](https://arxiv.org/abs/2407.08136) [ProjectPage](https://badtobest.github.io/echomimic.html) [GitHub](https://github.com/BadToBest/EchoMimic)
 - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2406.08801) [ProjectPage](https://fudan-generative-vision.github.io/hallo/#/) [GitHub](https://github.com/fudan-generative-vision/hallo)
 - RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network [arXiv 2024] [Paper](https://arxiv.org/abs/2406.18284)
 - Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2406.07895)
