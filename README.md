@@ -41,11 +41,13 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2408.09347v1)
+- FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model [arXiv 2024] [Paper](https://arxiv.org/abs/2408.09384v1)
+- LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control [arXiv 2024] [Paper](https://arxiv.org/abs/2407.03168) [ProjectPage](https://liveportrait.github.io/) [Code](https://github.com/KwaiVGI/LivePortrait)
 - High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model [arXiv 2024] [Paper](https://arxiv.org/abs/2408.05416)
 - Landmark-guided Diffusion Model for High-fidelity and Temporally Coherent Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2408.01732)
 - LinguaLinker: Audio-Driven Portraits Animation with Implicit Facial Control Enhancement [arXiv 2024] [Paper](https://arxiv.org/abs/2407.18595) [ProjectPage](https://tencentqqgylab.github.io/LinguaLinker/) [Code](https://github.com/TencentQQGYLab/LinguaLinker?tab=readme-ov-file)
 - Learning Online Scale Transformation for Talking Head Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2407.09965)
-
 - EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions [arXiv 2024] [Paper](https://arxiv.org/abs/2407.08136) [ProjectPage](https://badtobest.github.io/echomimic.html) [GitHub](https://github.com/BadToBest/EchoMimic)
 - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2406.08801) [ProjectPage](https://fudan-generative-vision.github.io/hallo/#/) [GitHub](https://github.com/fudan-generative-vision/hallo)
 - RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network [arXiv 2024] [Paper](https://arxiv.org/abs/2406.18284)
@@ -247,7 +249,6 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 - UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model [arXiv 2024] [Paper](https://arxiv.org/abs/2408.00762)
 - EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head [arXiv 2024] [Paper](https://arxiv.org/abs/2408.00297)
 - EmoFace: Audio-driven Emotional 3D Face Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2407.12501) [Code](https://github.com/SJTU-Lucy/EmoFace)
-
 - MultiTalk: Enhancing 3D Talking Head Generation Across Languages with Multilingual Video Dataset [InterSpeed 2024] [Paper](https://arxiv.org/abs/2406.14272) [ProjectPage](https://multi-talk.github.io/)
 - 3D Gaussian Blendshapes for Head Avatar Animation [SIGGRAPH 2024] [Paper](https://arxiv.org/abs/2404.19398)
 - CSTalk: Correlation Supervised Speech-driven 3D Emotional Facial Animation Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2404.18604)
