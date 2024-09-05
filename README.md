@@ -41,6 +41,10 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency [arXiv 2024] [Paper](https://arxiv.org/abs/2409.02634) [ProjectPage](https://loopyavatar.github.io/)
+- PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2409.02657)
+- CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2409.01876) [ProjectPage](https://cyberhost.github.io/)
+- TalkLoRA: Low-Rank Adaptation for Speech-Driven Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2408.13714)
 - S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2408.09347v1)
 - FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model [arXiv 2024] [Paper](https://arxiv.org/abs/2408.09384v1)
 - LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control [arXiv 2024] [Paper](https://arxiv.org/abs/2407.03168) [ProjectPage](https://liveportrait.github.io/) [Code](https://github.com/KwaiVGI/LivePortrait)
@@ -243,6 +247,8 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding [ECCV 2024] [Paper](https://arxiv.org/abs/2409.01113) [Code](https://github.com/ffxzh/KMTalk)
+- EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2408.11518)
 - DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2408.06010)
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model [arXiv 2024] [Paper](https://www.arxiv.org/abs/2408.01627)
 - GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer [arXiv 2024] [Paper](https://www.arxiv.org/abs/2408.01826)
