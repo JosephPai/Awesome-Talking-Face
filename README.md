@@ -41,6 +41,10 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [CVPRW 2024] [Paper](https://arxiv.org/abs/2409.07649)
+- EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion [arXiv 2024] [Paper](https://www.arxiv.org/abs/2409.07255)
+- SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model [arXiv 2024] [Paper](https://arxiv.org/abs/2409.03270)
+- SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing [arXiv 2024] [Paper](https://www.arxiv.org/abs/2409.03605)
 - Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency [arXiv 2024] [Paper](https://arxiv.org/abs/2409.02634) [ProjectPage](https://loopyavatar.github.io/)
 - PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2409.02657)
 - CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2409.01876) [ProjectPage](https://cyberhost.github.io/)
@@ -247,6 +251,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE [arXiv 2024] [Paper](https://arxiv.org/abs/2409.07966) [Code](https://github.com/uuembodiedsocialai/ProbTalk3D/)
 - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding [ECCV 2024] [Paper](https://arxiv.org/abs/2409.01113) [Code](https://github.com/ffxzh/KMTalk)
 - EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2408.11518)
 - DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation [arXiv 2024] [Paper](https://arxiv.org/abs/2408.06010)
