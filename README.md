@@ -41,6 +41,12 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- 3D-Aware Text-driven Talking Avatar Generation [ECCV 2024] [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12305.pdf)
+- LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details [arXiv 2024] [Paper](https://arxiv.org/abs/2410.00990)
+- TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans [ECCVW 2024] [Paper](https://arxiv.org/abs/2409.16666)
+- JoyHallo: Digital human model for Mandarin [arXiv 2024] [Paper](https://arxiv.org/abs/2409.13268) [Code](https://github.com/jdh-algo/JoyHallo)
+- JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation [BMVC 2024] [Paper](https://arxiv.org/abs/2409.12156)
+- StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads [TPAMI 2024] [Paper](https://www.arxiv.org/abs/2409.09292)
 - DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [CVPRW 2024] [Paper](https://arxiv.org/abs/2409.07649)
 - EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion [arXiv 2024] [Paper](https://www.arxiv.org/abs/2409.07255)
 - SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model [arXiv 2024] [Paper](https://arxiv.org/abs/2409.03270)
@@ -251,6 +257,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- 3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy [arxiv 2024] [Paper](https://www.arxiv.org/abs/2409.10848)
 - ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE [arXiv 2024] [Paper](https://arxiv.org/abs/2409.07966) [Code](https://github.com/uuembodiedsocialai/ProbTalk3D/)
 - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding [ECCV 2024] [Paper](https://arxiv.org/abs/2409.01113) [Code](https://github.com/ffxzh/KMTalk)
 - EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention [arXiv 2024] [Paper](https://arxiv.org/abs/2408.11518)
