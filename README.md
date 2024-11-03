@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2410.13726) [Code](https://github.com/Hanbo-Cheng/DAWN-pytorch) [ProjectPage](https://hanbo-cheng.github.io/DAWN/)
 - Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [arXiv 2024] [Paper](https://arxiv.org/abs/2410.14283)
 - MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [arXiv 2024] [Paper](https://arxiv.org/abs/2410.10122) [Code](https://github.com/TMElyralab/MuseTalk)
 - 3D-Aware Text-driven Talking Avatar Generation [ECCV 2024] [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12305.pdf)
