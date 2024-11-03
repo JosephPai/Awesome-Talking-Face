@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [arXiv 2024] [Paper](https://arxiv.org/abs/2410.14283)
+- MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [arXiv 2024] [Paper](https://arxiv.org/abs/2410.10122) [Code](https://github.com/TMElyralab/MuseTalk)
 - 3D-Aware Text-driven Talking Avatar Generation [ECCV 2024] [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12305.pdf)
 - LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details [arXiv 2024] [Paper](https://arxiv.org/abs/2410.00990)
 - TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans [ECCVW 2024] [Paper](https://arxiv.org/abs/2409.16666)
@@ -78,7 +80,6 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 - Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation [CVPR 2024 Workshop] [Paper](https://arxiv.org/abs/2405.04327)
 - EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars [arXiv 2024] [Paper](https://arxiv.org/abs/2404.19110)[ProjectPage](https://neeek2303.github.io/EMOPortraits)
 - GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting [arXiv 2024] [Paper](https://arxiv.org/abs/2404.19040)
-- MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting [Code](https://github.com/TMElyralab/MuseTalk) [Tech report on the way]
 - VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time [arXiv 2024] [Paper](https://arxiv.org/abs/2404.10667) [ProjectPage](https://www.microsoft.com/en-us/research/project/vasa-1/)
 - THQA: A Perceptual Quality Assessment Database for Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2404.09003) [Code](https://github.com/zyj-2000/THQA)
 - Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior [arXiv 2024] [Paper](https://arxiv.org/abs/2403.20153) [Code](https://github.com/KU-CVLAB/Talk3D) [ProjectPage](https://ku-cvlab.github.io/Talk3D/)
@@ -257,6 +258,10 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes [NeurIPS 2024] [Paper](https://arxiv.org/abs/2410.06734) [Code](https://github.com/yerfor/MimicTalk) [ProjectPage](https://mimictalk.github.io/)
+- ScanTalk: 3D Talking Heads from Unregistered Scans [ECCV 2024] [Paper](https://arxiv.org/abs/2403.10942) [Code](https://github.com/miccunifi/ScanTalk)
+- Audio-Driven Emotional 3D Talking-Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2410.17262v1)
+- Beyond Fixed Topologies: Unregistered Training and Comprehensive Evaluation Metrics for 3D Talking Heads [arXiv 2024] [Paper](https://arxiv.org/abs/2410.11041)
 - 3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy [arxiv 2024] [Paper](https://www.arxiv.org/abs/2409.10848)
 - ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE [arXiv 2024] [Paper](https://arxiv.org/abs/2409.07966) [Code](https://github.com/uuembodiedsocialai/ProbTalk3D/)
 - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding [ECCV 2024] [Paper](https://arxiv.org/abs/2409.01113) [Code](https://github.com/ffxzh/KMTalk)
