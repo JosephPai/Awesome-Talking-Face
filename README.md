@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models [arXiv 2024] [Paper](https://arxiv.org/abs/2410.22901) [Code](https://github.com/HelloVision/HelloMeme)
 - DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2410.13726) [Code](https://github.com/Hanbo-Cheng/DAWN-pytorch) [ProjectPage](https://hanbo-cheng.github.io/DAWN/)
 - Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [arXiv 2024] [Paper](https://arxiv.org/abs/2410.14283)
 - MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [arXiv 2024] [Paper](https://arxiv.org/abs/2410.10122) [Code](https://github.com/TMElyralab/MuseTalk)
@@ -259,6 +260,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention [TVCG 2024] [Paper](https://ieeexplore.ieee.org/document/10452856) [Code](https://github.com/sharlingw/PATFS)
 - MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes [NeurIPS 2024] [Paper](https://arxiv.org/abs/2410.06734) [Code](https://github.com/yerfor/MimicTalk) [ProjectPage](https://mimictalk.github.io/)
 - ScanTalk: 3D Talking Heads from Unregistered Scans [ECCV 2024] [Paper](https://arxiv.org/abs/2403.10942) [Code](https://github.com/miccunifi/ScanTalk)
 - Audio-Driven Emotional 3D Talking-Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2410.17262v1)
