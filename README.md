@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space [arXiv 2024] [Paper](https://arxiv.org/abs/2411.09268) [Project](https://peterfanfan.github.io/LES-Talker/)
+- JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2411.09209) [Code](https://github.com/jdh-algo/JoyVASA)
 - HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models [arXiv 2024] [Paper](https://arxiv.org/abs/2410.22901) [Code](https://github.com/HelloVision/HelloMeme)
 - DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2410.13726) [Code](https://github.com/Hanbo-Cheng/DAWN-pytorch) [ProjectPage](https://hanbo-cheng.github.io/DAWN/)
 - Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [arXiv 2024] [Paper](https://arxiv.org/abs/2410.14283)
@@ -260,6 +262,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts [arXiv 2024] [Paper](https://arxiv.org/abs/2410.23836)
 - Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention [TVCG 2024] [Paper](https://ieeexplore.ieee.org/document/10452856) [Code](https://github.com/sharlingw/PATFS)
 - MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes [NeurIPS 2024] [Paper](https://arxiv.org/abs/2410.06734) [Code](https://github.com/yerfor/MimicTalk) [ProjectPage](https://mimictalk.github.io/)
 - ScanTalk: 3D Talking Heads from Unregistered Scans [ECCV 2024] [Paper](https://arxiv.org/abs/2403.10942) [Code](https://github.com/miccunifi/ScanTalk)
