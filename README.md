@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2411.16748) [Code](https://github.com/zhang-haojie/letstalk) [Project](https://zhang-haojie.github.io/project-pages/letstalk.html)
+- EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion [arXiv 2024] [Paper](https://www.arxiv.org/abs/2411.16726)
 - LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space [arXiv 2024] [Paper](https://arxiv.org/abs/2411.09268) [Project](https://peterfanfan.github.io/LES-Talker/)
 - JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2411.09209) [Code](https://github.com/jdh-algo/JoyVASA)
 - HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models [arXiv 2024] [Paper](https://arxiv.org/abs/2410.22901) [Code](https://github.com/HelloVision/HelloMeme)
