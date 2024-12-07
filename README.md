@@ -41,6 +41,13 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04000) [Project](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)
+- INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04037) [Project](https://grisoon.github.io/INFP/)
+- MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04448) [Code](https://github.com/memoavatar/memo) [Project](https://memoavatar.github.io/)
+- FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait [arXiv 2024] [Paper](https://arxiv.org/abs/2412.01064) [Project](https://deepbrainai-research.github.io/float/)
+- Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks [arXiv 2024] [Paper](https://arxiv.org/abs/2412.00733)
+- Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.00719) [Code](https://github.com/ShaelynZ/synergize-motion-appearance)
+- Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2411.19509)
 - LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis [arXiv 2024] [Paper](https://arxiv.org/abs/2411.16748) [Code](https://github.com/zhang-haojie/letstalk) [Project](https://zhang-haojie.github.io/project-pages/letstalk.html)
 - EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion [arXiv 2024] [Paper](https://www.arxiv.org/abs/2411.16726)
 - LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space [arXiv 2024] [Paper](https://arxiv.org/abs/2411.09268) [Project](https://peterfanfan.github.io/LES-Talker/)
@@ -264,6 +271,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- One Shot, One Talk: Whole-body Talking Avatar from a Single Image [arXiv 2024] [Paper](https://arxiv.org/abs/2412.01106) [Project](https://ustc3dv.github.io/OneShotOneTalk/)
 - Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts [arXiv 2024] [Paper](https://arxiv.org/abs/2410.23836)
 - Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention [TVCG 2024] [Paper](https://ieeexplore.ieee.org/document/10452856) [Code](https://github.com/sharlingw/PATFS)
 - MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes [NeurIPS 2024] [Paper](https://arxiv.org/abs/2410.06734) [Code](https://github.com/yerfor/MimicTalk) [ProjectPage](https://mimictalk.github.io/)
