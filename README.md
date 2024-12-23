@@ -41,6 +41,8 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization [arXiv 2024] [Paper](https://arxiv.org/abs/2412.09892)
+- PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.07754)
 - IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04000) [Project](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)
 - INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04037) [Project](https://grisoon.github.io/INFP/)
 - MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04448) [Code](https://github.com/memoavatar/memo) [Project](https://memoavatar.github.io/)
@@ -271,6 +273,7 @@ Continuously Controllable Expressions [arXiv 2022] [Paper](https://arxiv.org/pdf
 
 
 ### 3D Animation
+- Joint Co-Speech Gesture and Expressive Talking Face Generation using Diffusion with Adapters [arXiv 2024] [Paper](https://arxiv.org/abs/2412.14333)
 - One Shot, One Talk: Whole-body Talking Avatar from a Single Image [arXiv 2024] [Paper](https://arxiv.org/abs/2412.01106) [Project](https://ustc3dv.github.io/OneShotOneTalk/)
 - Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts [arXiv 2024] [Paper](https://arxiv.org/abs/2410.23836)
 - Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention [TVCG 2024] [Paper](https://ieeexplore.ieee.org/document/10452856) [Code](https://github.com/sharlingw/PATFS)
