@@ -1,6 +1,6 @@
 # Awesome Talking Face [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-This is a repository for organizing papres, codes and other resources related to talking face/head. Most papers are linked to the pdf address provided by "arXiv" or "OpenAccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
+This is a repository for organizing papers, codes and other resources related to talking face/head. Most papers are linked to the pdf address provided by "arXiv" or "OpenAccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
 
 
