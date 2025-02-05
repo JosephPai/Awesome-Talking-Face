@@ -41,6 +41,7 @@ I updated a batch of papers that appeared in the past few months. In this repo, 
 
 ### 2D Video - Person independent
 #### 2024
+- All You Need is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation [ECCV 2024] [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08116.pdf)
 - VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization [arXiv 2024] [Paper](https://arxiv.org/abs/2412.09892)
 - PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.07754)
 - IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.04000) [Project](http://ec2-3-25-102-128.ap-southeast-2.compute.amazonaws.com/IF-MDM/ifmdm_supplementary/index.html)
