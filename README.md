@@ -346,6 +346,7 @@ from Video using Pose and Lighting Normalization [CVPR 2021] [Paper](https://ope
 
 ## Datasets & Benchmark
 
+- PVSync: A Unified Lip-Sync Expert for Timing and Articulation [arXiv 2026] [Paper](https://arxiv.org/abs/2610.09223)
 - Responsive Listening Head Generation: A Benchmark Dataset and Baseline [ECCV 2022] [Paper](https://arxiv.org/abs/2112.13548) [ProjectPage](https://vico.solutions/)
 - TalkingHead-1KH [Link](https://github.com/deepimagination/TalkingHead-1KH)
 - MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation [ECCV 2020] [ProjectPage](https://wywu.github.io/projects/MEAD/MEAD.html)
